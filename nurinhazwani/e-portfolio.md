@@ -100,6 +100,6 @@ Hello! I'm **Nurin Hazwani Binti Hussin**, a 20-year-old undergraduate student c
 
 
 ## **Links**
-- **LinkedIn Profile**: [LinkedIn Profile](www.linkedin.com/in/nurin-hazwani-53117b338
+- **LinkedIn Profile**: [LinkedIn Profile](www.linkedin.com/in/nurin-hazwani-53117b338)
 
 Thank you for visiting my e-portfolio!
