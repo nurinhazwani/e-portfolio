@@ -25,7 +25,7 @@ Hello! I'm **Nurin Hazwani Binti Hussin**, a 20-year-old undergraduate student c
 - Sijil Darjah Khas Agama Johor (SDKA) - Pangkat 1 , 2018
 - Sijil Pelajaran Malaysia (SPM) - 6A 1B+ 2C+ , 2023
 - Sijil Matrikulasi CGPA 3.88 , 2023/2024
-- Computer Science (Graphics and Multimedia Software), [UTM], 2024 – Present
+- Degree in Computer Science (Graphics and Multimedia Software), [UTM], 2024 – Present
 
 **Key Achievements:**
 - Tokoh Nilam Award for Reading Excellence
@@ -39,7 +39,7 @@ Hello! I'm **Nurin Hazwani Binti Hussin**, a 20-year-old undergraduate student c
 
 ---   
 
-## **Courses and Assignments**
+## **Courses**
 
 - **SECP1513: Technology and Information Systems**
 - **SECJ1013: Programming Technic 1**
