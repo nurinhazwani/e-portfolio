@@ -101,7 +101,18 @@ Hello! I'm **Nurin Hazwani Binti Hussin**, a 20-year-old undergraduate student c
 2. **Suggestions for Improvement**: It would be helpful to have more hands-on practice with building circuits or simulations to better visualize how digital logic is applied in real systems.
 3. **Personal Reflections**: While some topics were difficult, I enjoyed learning how digital systems function at the hardware level. This knowledge will help me in understanding how computers and other electronic devices work.
 
+### **UHLB1112: English Communication Skills**
+1. **What I Gained**: This course enhanced my proficiency in English, particularly in writing, speaking, and presenting ideas effectively. It also improved my confidence in communicating within academic and professional contexts.
+2. **Suggestions for Improvement**: Incorporating more interactive activities like debates or group discussions could further develop practical communication skills. Inviting speakers from diverse fields to share their experiences could also inspire students.
+3. **Personal Reflections**: I appreciated the opportunity to practice public speaking and engage in meaningful conversations with my classmates. It was rewarding to see progress in my communication abilities through continuous practice.
+
+### **ULRS1032: Integrity and Anti-Corruption**  
+What I Gained: This course deepened my understanding of the importance of integrity in both personal and professional life. I learned how ethical decision-making and accountability contribute to building trust and strong relationships.  
+Suggestions for Improvement: Including more case studies or role-playing scenarios could help students better understand the application of integrity in various real-life situations.  
+Personal Reflections: I found the discussions on ethical dilemmas and their resolutions particularly thought-provoking. The course inspired me to uphold integrity as a core value in all aspects of my life.  
+
 ---
+
 
 
 ## **Links**
