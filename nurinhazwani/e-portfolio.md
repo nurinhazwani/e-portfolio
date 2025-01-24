@@ -31,7 +31,7 @@ Hello! I'm **Nurin Hazwani Binti Hussin**, a 20-year-old undergraduate student c
 - Tokoh Nilam Award for Reading Excellence
 - 1st Place: Pertandingan Bicara Berirama 2017
 - 2nd Place: Tree Knowledge Scrapbook Competition
-- Superintendent of School Activities (Leadership Role)
+- Outstanding Prefect Award Recognition.
 
 **Skills**:
   - **Technical**: C++, Java, Adobe, Canva
