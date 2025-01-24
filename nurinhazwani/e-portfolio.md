@@ -39,9 +39,14 @@ Hello! I'm **Nurin Hazwani Binti Hussin**, a 20-year-old undergraduate student c
 
 ---   
 
-## **Courses**
+## **Courses and Assignments**
 
-- **SECP1513: Technology and Information Systems**
+### **SECP1513: Technology and Information Systems**
+ - **Link**: [SECP1513 ASSIGNMENT](https://github.com/nurinhazwani/SECP1513)
+
+
+
+
 - **SECJ1013: Programming Technic 1**
 - **SECI1013: Discrete Structure**
 - **SECR1013: Digital Logic**
