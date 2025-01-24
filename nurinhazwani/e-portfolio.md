@@ -47,6 +47,9 @@ Hello! I'm **Nurin Hazwani Binti Hussin**, a 20-year-old undergraduate student c
 ### **2. SECJ1013: Programming Technic 1**
  - **Link**: [SECJ1013 ASSIGNMENT](https://github.com/nurinhazwani/SECJ1013)
 
+### **3. UHLB1112: English Communication & Skills**
+ - **Link**: [ENGLISH PROJECT](https://github.com/nurinhazwani/UHLB1112)
+
 
 #### Other Activities on SECP1513:
 - **PC Assemble (Lab)**: Hands-on experience assembling a computer and understanding its components.
