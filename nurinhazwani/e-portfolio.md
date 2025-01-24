@@ -107,9 +107,9 @@ Hello! I'm **Nurin Hazwani Binti Hussin**, a 20-year-old undergraduate student c
 3. **Personal Reflections**: I appreciated the opportunity to practice public speaking and engage in meaningful conversations with my classmates. It was rewarding to see progress in my communication abilities through continuous practice.
 
 ### **ULRS1032: Integrity and Anti-Corruption**  
-What I Gained: This course deepened my understanding of the importance of integrity in both personal and professional life. I learned how ethical decision-making and accountability contribute to building trust and strong relationships.  
-Suggestions for Improvement: Including more case studies or role-playing scenarios could help students better understand the application of integrity in various real-life situations.  
-Personal Reflections: I found the discussions on ethical dilemmas and their resolutions particularly thought-provoking. The course inspired me to uphold integrity as a core value in all aspects of my life.  
+1. **What I Gained**: This course deepened my understanding of the importance of integrity in both personal and professional life. I learned how ethical decision-making and accountability contribute to building trust and strong relationships.
+2. **Suggestions for Improvement**: Including more case studies or role-playing scenarios could help students better understand the application of integrity in various real-life situations.  
+3. **Personal Reflections**: I found the discussions on ethical dilemmas and their resolutions particularly thought-provoking. The course inspired me to uphold integrity as a core value in all aspects of my life.  
 
 ---
 
