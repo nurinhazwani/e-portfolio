@@ -4,7 +4,7 @@ Hello! I'm **Nurin Hazwani Binti Hussin**, a 20-year-old undergraduate student c
 
 ---
 
-## **Profile Sections**
+## **👩‍🎓Profile Sections**
 
 ### **About Me**
 - 📍 Location: Johor
@@ -12,7 +12,7 @@ Hello! I'm **Nurin Hazwani Binti Hussin**, a 20-year-old undergraduate student c
 - ✨ Passionate about technology, innovation, and professional growth.
 - 🌱 Currently exploring the fields of computer science.
 
-### **Contact**
+### **..Contact**
 - Email: nurinhazwani@graduate.utm.my
 - LinkedIn: (www.linkedin.com/in/nurin-hazwani-53117b338)
 - GitHub: (https://github.com/nurinhazwani)
