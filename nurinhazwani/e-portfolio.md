@@ -45,7 +45,7 @@ Hello! I'm **Nurin Hazwani Binti Hussin**, a 20-year-old undergraduate student c
  - **Link**: [SECP1513 ASSIGNMENT](https://github.com/nurinhazwani/SECP1513)
    
 ### **2. SECJ1013: Programming Technic 1**
- - **Link**: [SECP1513 ASSIGNMENT](https://github.com/nurinhazwani/SECJ1013)
+ - **Link**: [SECJ1013 ASSIGNMENT](https://github.com/nurinhazwani/SECJ1013)
 
 
 #### Other Activities on SECP1513:
