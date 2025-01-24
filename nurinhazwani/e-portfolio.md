@@ -23,19 +23,19 @@ Hello! I'm **Nurin Hazwani Binti Hussin**, a 20-year-old undergraduate student c
 - Ujian Pencapaian Sekolah Rendah (UPSR) - 4A 2B , 2017
 - Sijil Darjah Enam Agama (SDEA) - 3A 5B 1D , 2017
 - Sijil Darjah Khas Agama Johor (SDKA) - Pangkat 1 , 2018
-- Sijil Pelajaran Malaysia (SPM) - 6A 1B+ 2C+ , 2023
+- Sijil Pelajaran Malaysia (SPM) - 1A+ 3A 2A- 1B+ 2C+ , 2023
 - Sijil Matrikulasi CGPA 3.88 , 2023/2024
 - MUET Band 3.5
 - Degree in Computer Science (Graphics and Multimedia Software), [UTM], 2024 – Present
 
 **Key Achievements:**
+- Outstanding Prefect Award Recognition.
 - Tokoh Nilam Award for Reading Excellence
 - 1st Place: Pertandingan Bicara Berirama 2017
-- 2nd Place: Tree Knowledge Scrapbook Competition
-- Outstanding Prefect Award Recognition.
+- 2nd Place: Pertandingan Membuat Bulletin & Majalah 2018
 
 **Skills**:
-  - **Technical**: C++, Java, Adobe, Canva
+  - **Technical**: C++, Java, Adobe, Canva, Microsoft 365
   - **Soft Skills**: Leadership, Communication, Teamwork, Problem-Solving
 
 ---   
@@ -76,8 +76,12 @@ Hello! I'm **Nurin Hazwani Binti Hussin**, a 20-year-old undergraduate student c
 - Setiausaha Kelab Kebudayaan , 2017
 - Penolong Setiausaha/Penolong Bendahari/Puteri Kejora dalam Pergerakan Tunas Puteri Islam Malaysia (PPIM) , 2017
 - Sijil Puteri Bongsu , 2017
-- Webinar SOUL Siri 4/2024 
-- EXPLORACE , 2024
+- Anugerah Cemerlang Tempat Kedua , 2018
+- Bendahari Persatuan Pandu Puteri Remaja , 2018
+- Setaiusaha/Bendahari Persatuan Pandu Puteri Malaysia , 2022
+- Bnedahari Kelab Doktor Muda , 2022
+- Anugerah Sahsiah 'Terpuji' Sistem Sahsiah Disiplin Murid (SSDM) Sepanjang Sesi Persekolahan 2022/2023
+- Menyertai EXPLORACE KMJ , 2024
 - 2nd Place : Youth Dodgeball by F7 , 2024
 
 
