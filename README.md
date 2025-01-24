@@ -1,6 +1,6 @@
 ### **e-Portfolio**
 
-Welcome to my e-portfolio! This repository contains a collection of my academic achievements, skills, and projects throughout my journey in the Computer Science (Graphic and Multimedia Software) program. The e-portfolio is organized within the **`nurinhazwani`** folder, and the main file is **`e-portfolio.md`**.
+Welcome to my e-portfolio! This repository contains a collection of my academic achievements, skills, and projects throughout my journey. The e-portfolio is organized within the **`nurinhazwani`** folder, and the main file is **`e-portfolio.md`**.
 
 In this e-portfolio, you will find:
 
