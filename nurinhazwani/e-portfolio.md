@@ -7,7 +7,7 @@ Hello! I'm **Nurin Hazwani Binti Hussin**, a 20-year-old undergraduate student c
 ## **👩‍🎓Profile Sections**
 
 ### **About Me**
-- 📍 Location: Johor
+- 📍 Location: Batu Pahat, Johor.
 - 🎓 Student at Universiti Teknologi Malaysia (UTM)
 - ✨ Passionate about technology, innovation, and professional growth.
 - 🌱 Currently exploring the fields of computer science.
